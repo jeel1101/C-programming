@@ -1,4 +1,4 @@
-//diamond pyramid
+//Hollow diamond pyramid
 
 #include <stdio.h>
 
